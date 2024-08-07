@@ -4,8 +4,8 @@ Welcome to the Pandas tutorial repository! This guide will provide a comprehensi
 
 ## Table of Contents
 
-1. [What is Pandas?](#what-is-pandas)
-2. [What Can Pandas Do?](#what-can-pandas-do)
+1. [What is Pandas?]
+2. [What Can Pandas Do?]
 3. Pandas Series
 4. Pandas DataFrame
 5. Read CSV
